@@ -1,4 +1,4 @@
-Hiring High Performing Baseball Players at Bargain Prices - A Data Science Approach
+# Hiring High Performing Baseball Players at Bargain Prices - A Data Science Approach
 
 The salary of major league baseball players can be astronomical, especially if they are star-players in their teams. This is a challenge for clubs that don't swim in cash. Therefore, we are trying to apply data science to this problem and identify high performing players that are still affordable for clubs with smaller wallets.
 
